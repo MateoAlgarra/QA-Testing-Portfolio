@@ -34,7 +34,7 @@ Análisis técnico de implementación de pruebas en proyecto open-source real co
 **Stack:** Jest, Cypress, CI/CD, Testing Pyramid  
 **Conceptos:** Unit Testing, E2E Testing, Flaky Tests Prevention, Data-Driven Testing
 
-📹 [Ver presentación en video (3 min)](https://youtu.be/eiwHvknZUVA)
+📹 [Ver presentación en video (7 min)](https://youtu.be/eiwHvknZUVA)
 
 ---
 
