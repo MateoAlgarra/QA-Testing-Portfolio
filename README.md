@@ -4,44 +4,23 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:mateoalgarratovar@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Bogot%C3%A1%2C%20Colombia-green)]()
 
-## 👨‍💻 Sobre Mí
+## 👨‍💻 Perfil Profesional
 
-Estudiante de **Ingeniería de Sistemas** (UNAD - 4to semestre) especializándome en **Quality Assurance y Testing de Software**. Certificado por el SENA con más de **120 horas** de formación técnica en testing manual y automatizado.
+**QA Tester | Manual Testing | Software Quality Assurance**
 
-Apasionado por asegurar la calidad del software mediante pruebas rigurosas, documentación precisa y mejora continua. Busco mi primera oportunidad profesional como **QA Tester** para aplicar mis conocimientos técnicos y crecer en un equipo ágil.
+Estudiante de Ingeniería de Sistemas (UNAD - 4to semestre) con formación especializada en Quality Assurance. Certificado por el SENA con **120+ horas** en testing manual, automatizado y aseguramiento de calidad.
+
+**Disponibilidad:** Inmediata | **Modalidad:** Remoto / Presencial / Híbrido
 
 ---
 
-## 🎓 Certificaciones
+## 🎓 Certificaciones SENA
 
-### SENA (Servicio Nacional de Aprendizaje)
 - 📜 **Manejo de Pruebas de Software** (2025) - 40 horas
 - 📜 **Calidad en el Desarrollo de Software** (2025) - 40 horas  
-- 📜 **Aplicación de la Calidad del Software en el Proceso de Desarrollo** (2021) - 40 horas
+- 📜 **Aplicación de Calidad del Software en el Proceso de Desarrollo** (2021) - 40 horas
 
-### Educación Universitaria
-- 🎓 **Ingeniería de Sistemas** - Universidad Nacional Abierta y a Distancia (UNAD)
-  - Cursando 4to semestre | 2023 - Actualidad
-
----
-
-## 🏆 Reconocimientos Académicos
-
-Durante mi formación en el SENA, mis proyectos han sido consistentemente reconocidos por su calidad técnica y profundidad:
-
-> **"¡Qué nivel! Tu video es prácticamente una clase magistral de testing moderno. Me encantó que hablaras de la Pirámide de Testing y de la importancia de los selectores data-cy para evitar pruebas frágiles (flaky tests). Esos son los detalles que diferencian a un profesional. Aunque el video fue largo, el contenido técnico sobre Jest, Cypress y CI/CD fue impecable."**
-> 
-> — *Carlos Alberto Hernández Arcila, Instructor SENA - Diciembre 2025*
-
-> **"Tu análisis comparativo es de nivel experto. La selección de ISO 25010 está perfectamente fundamentada en la vigencia y la costura del estándar [...] Tu informe destaca por su profundidad, su estructura lógica y, especialmente, por la solidez de tus argumentos."**
-> 
-> — *Carlos Alberto Hernández Arcila, Instructor SENA - Diciembre 2025*
-
-> **"Tu trabajo es sobresaliente. Has demostrado una capacidad impresionante para combinar la gestión formal de la calidad (auditorías, SLAs) con las prácticas de ingeniería de software más modernas (GitFlow, SonarQube)."**
-> 
-> — *Carlos Alberto Hernández Arcila, Instructor SENA - Diciembre 2025*
-
-*Ver evidencias completas en cada carpeta de proyecto*
+📂 [Ver Certificados Completos](./certifications/)
 
 ---
 
@@ -55,7 +34,7 @@ Análisis técnico de implementación de pruebas en proyecto open-source real co
 **Stack:** Jest, Cypress, CI/CD, Testing Pyramid  
 **Conceptos:** Unit Testing, E2E Testing, Flaky Tests Prevention, Data-Driven Testing
 
-📹 [Ver presentación en video (7 min)](https://youtu.be/eiwHvknZUVA)
+📹 [Ver presentación en video (3 min)](https://youtu.be/eiwHvknZUVA)
 
 ---
 
@@ -105,6 +84,20 @@ Análisis comparativo experto de estándares de calidad (CMM, CMMI, PMBOK, TMMi,
 
 ---
 
+## 🏆 Reconocimientos Académicos
+
+Proyectos reconocidos por calidad técnica y profundidad:
+
+> **"¡Qué nivel! Tu video es prácticamente una clase magistral de testing moderno. Me encantó que hablaras de la Pirámide de Testing y de la importancia de los selectores data-cy para evitar pruebas frágiles (flaky tests)."**
+
+> **"Tu análisis comparativo es de nivel experto. Tu informe destaca por su profundidad, su estructura lógica y, especialmente, por la solidez de tus argumentos."**
+
+> **"Tu trabajo es sobresaliente. Has demostrado una capacidad impresionante para combinar la gestión formal de la calidad (auditorías, SLAs) con las prácticas de ingeniería de software más modernas (GitFlow, SonarQube)."**
+
+— *Carlos Alberto Hernández Arcila, Instructor SENA - 2025*
+
+---
+
 ## 💻 Habilidades Técnicas
 
 ### Testing & QA
@@ -129,23 +122,26 @@ Análisis comparativo experto de estándares de calidad (CMM, CMMI, PMBOK, TMMi,
 - **Control de versiones:** Git, GitHub
 - **Análisis:** SonarQube (conceptual)
 
-### Habilidades Técnicas Complementarias
-- Análisis de requerimientos
-- Documentación técnica
-- Gestión de cambios
-- Auditorías de calidad
-- Análisis de métricas
-
 ---
 
-## 🎯 Habilidades Blandas
+## 📚 Documentación Completa
 
-- 🔍 **Atención al detalle:** Minuciosidad en identificación de defectos
-- 🧠 **Pensamiento analítico:** Resolución sistemática de problemas
-- 👥 **Trabajo en equipo:** Colaboración efectiva en proyectos
-- 💬 **Comunicación clara:** Documentación precisa y reportes estructurados
-- 🚀 **Aprendizaje rápido:** Adaptación a nuevas tecnologías y metodologías
-- 📊 **Orientación a resultados:** Enfoque en calidad y mejora continua
+### 📜 Certificaciones SENA
+
+- [Manejo de Pruebas de Software (2025) - 40 horas](./certifications/certificado-manejo-pruebas-software-2025.pdf)
+- [Calidad en el Desarrollo de Software (2025) - 40 horas](./certifications/certificado-calidad-desarrollo-software-2025.pdf) ⏳ *Próximamente*
+- [Aplicación de Calidad del Software (2021) - 40 horas](./certifications/certificado-aplicacion-calidad-2021.pdf)
+
+### 📄 Documentos Técnicos Completos
+
+**Curso: Calidad del Software (2025)**
+- [Plan SQA - Sistema de Gestión Clínica](./02-SQA-Plan-Clinical-System/Plan_SQA_Mateo_Algarra.pdf)
+- [Plan de Pruebas - Sistema de Medicamentos](./03-Test-Plan-Medication-System/RAP3_Mateo_Algarra.pdf)
+- [Análisis Comparativo de Modelos de Calidad](./06-Software-Quality-Models-Analysis/Modelos_Mejora_Software_RAP4.pdf)
+
+**Curso: Manejo de Pruebas de Software (2025)**
+- [Testing Funcional - Aplicación Calculator](./04-Functional-Testing-Calculator-App/Taller3_Calculator_Mateo_Algarra.pdf)
+- [Gestión de Cambios - Aplicación Calculator](./05-Change-Management-Calculator/Taller4_Calculator_Mateo_Algarra.pdf)
 
 ---
 
@@ -160,22 +156,9 @@ Análisis comparativo experto de estándares de calidad (CMM, CMMI, PMBOK, TMMi,
 
 ---
 
-## 📚 Recursos Adicionales
+## 🎯 Objetivo Profesional
 
-- 📁 [Certificaciones SENA](./certifications/)
-- 🎥 [Video Presentaciones](./01-Cypress-RealWorld-Testing/video-presentacion.md)
-- 📄 [Documentos Técnicos](./certifications/)
-
----
-
-## 🌟 Objetivo Profesional
-
-Busco integrarme a un equipo de desarrollo como **QA Tester Junior** donde pueda:
-- Aplicar mis conocimientos en testing manual y automatizado
-- Contribuir al aseguramiento de calidad del software
-- Aprender y crecer profesionalmente en un ambiente ágil
-- Desarrollar expertise en herramientas modernas de testing
-- Participar activamente en la mejora continua de procesos
+Busco integrarme a un equipo de desarrollo como **QA Tester Junior** donde pueda aplicar mis conocimientos en testing manual y automatizado, contribuir al aseguramiento de calidad del software, y crecer profesionalmente en un ambiente ágil.
 
 ---
 
